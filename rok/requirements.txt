@@ -4,4 +4,4 @@ requests==2.24.0
 matplotlib==3.3.3
 opencv_contrib_python==4.5.1.48
 airtest==1.1.7
-Pillow==8.1.0
+Pillow==9.0.0
