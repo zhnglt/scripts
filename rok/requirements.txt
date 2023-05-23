@@ -1,6 +1,6 @@
 numpy==1.19.4
 pynput==1.7.2
-requests==2.24.0
+requests==2.31.0
 matplotlib==3.3.3
 opencv_contrib_python==4.5.1.48
 airtest==1.1.7
